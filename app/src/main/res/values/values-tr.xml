@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Araba Mağzası</string>
+    <string name="Title1">Organizasyonlarınızı Seçin</string>
+    <string name="Title2">Hesabınız holding genelinde daha fazla kuruluşla ilişkilendirilmiştir.</string>
+    <string name="Follow">Takip Et</string>
+    <string name="Following">Takip ediliyor</string>
+    <string name="accounts">hesaplar</string>
+    <string name="button">Bittir</string>
+</resources>

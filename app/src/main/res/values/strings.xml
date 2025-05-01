@@ -1,0 +1,9 @@
+<resources>
+    <string name="uygulama_adı">Car Shop</string>
+    <string name="Başlık1">Chose Your Organizations</string>
+    <string name="Başlık2">Your account is associated with more  organizations across the holding.</string>
+    <string name="Takip_et">Follow</string>
+    <string name="Takip_ediliyor">Following</string>
+    <string name="hesaplar">accounts</string>
+    <string name="button_tr">Finish</string>
+</resources>
